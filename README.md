@@ -1,5 +1,5 @@
-<iframe src="https://editor.p5js.org/yamribas/embed/1O0YRxQWu"></iframe>
-## Um jogo de código aberto desenvolvido usando **JavaScript** com a biblioteca **[p5.js]** library.
+
+## Um jogo de código aberto desenvolvido usando **JavaScript** com a biblioteca **[p5.js]**.
 
 **[O_jogo]**
 

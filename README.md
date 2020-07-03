@@ -1,5 +1,5 @@
 
-##Um jogo em código aberto usando **JavaScript** com a biblioteca **[p5.js]** library.
+## An Open Source game developed using **JavaScript** with the **[p5.js]** library.
 
 **[O_jogo]**
 
